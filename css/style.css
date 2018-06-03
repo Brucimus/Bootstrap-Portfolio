@@ -3,3 +3,11 @@ body {
     background-image: url("../images/footer_lodyas.png");
     background-repeat: repeat;
 }
+
+.table td {
+    border-top: 0px hidden;
+}
+
+td p {
+    text-align: center;
+}
