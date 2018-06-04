@@ -16,7 +16,15 @@ td p :hover {
     background-color: yellow;
 }
 
-.container {
+.main {
     background-color: #ffffff;
     border: solid #dddddd 2px;
+}
+
+.row {
+    padding: 20px;
+}
+
+.container {
+    width: 960px;
 }
