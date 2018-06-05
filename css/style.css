@@ -46,7 +46,8 @@ td p :hover {
     color: white;
     position: absolute;
     bottom: 25%;
-    width: 180px;
+    width: 40%;
+    font-size: 70%;
     text-align: center;
 }
 footer {
