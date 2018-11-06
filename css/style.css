@@ -63,3 +63,14 @@ footer {
     width: 200px;
     height: auto;
 }
+
+.contactImage {
+    width: 75px;
+    height: auto;
+}
+
+.contactLink {
+    margin-left: 20px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
